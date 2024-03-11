@@ -40,7 +40,7 @@ main aside {
 .new-feature{
 	display: inline-block;
 	padding-right: 25px;
-	background-image: url("../images/new.png");
+	background-image: url("new.png");
 	background-repeat: no-repeat;
 	background-position: top right;
 }
@@ -58,7 +58,7 @@ main aside {
 */
 a[rel="external"] {
 	padding-left: 20px;
-	background-image: url("../images/new.png");
+	background-image: url("new.png");
 	background-repeat: no-repeat;
 	background-position: top left;
 }
