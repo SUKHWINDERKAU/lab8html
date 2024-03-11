@@ -56,7 +56,7 @@
 					<button type="submit">Subscribe</button>
 				</form>
 				<figure>
-					<img src="images/mini-figure.png" width="176" height="285" alt="Mini figure">
+					<img src="mini-figure.png" width="176" height="285" alt="Mini figure">
 					<figcaption><a href="https://www.lego.com/" rel="external" title="Visit the offical LEGO® Web site">LEGO®</a> mini figure by Vanja (Public Domain)</figcaption>
 					<!-- Mini figure by Vanja (Public Domain) https://openclipart.org/detail/224315/clip-is-a-brick-minifig-4 -->
 				</figure>
